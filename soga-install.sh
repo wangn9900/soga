@@ -1,8 +1,8 @@
 #! /bin/bash
 echo 'soga破解版对接脚本'
 apt install curl wget htop nload -y
-bash < <(curl -Ls "https://gitlab.com/xiaozhan-sb/azp/-/raw/main/install.sh")
-wget "https://git.littleneko.cf/Rottencat/soga-one-key-boot/raw/branch/master/soga.conf"
+bash < <(curl -Ls "https://github.com/wangn9900/soga/edit/main/install.sh")
+wget "https://raw.githubusercontent.com/wangn9900/soga/main/soga.conf"
 m4 -DTYPE=$1 -DURL=$2 -DKEY=$3 -DNODE=$4 -DHOST=$5 -DCFM=$6 -DCFK=$7 soga.conf |tee soga1.conf
 cp soga1.conf /etc/soga/soga.conf
 soga restart
