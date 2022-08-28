@@ -1,0 +1,41 @@
+{
+  "url": "https://api.github.com/repos/RManLuo/crack-soga-v2ray/releases/33861008",
+  "assets_url": "https://api.github.com/repos/RManLuo/crack-soga-v2ray/releases/33861008/assets",
+  "upload_url": "https://uploads.github.com/repos/RManLuo/crack-soga-v2ray/releases/33861008/assets{?name,label}",
+  "html_url": "https://github.com/RManLuo/crack-soga-v2ray/releases/tag/2.0.6",
+  "id": 33861008,
+  "node_id": "MDc6UmVsZWFzZTMzODYxMDA4",
+  "tag_name": "2.0.6",
+  "target_commitish": "master",
+  "name": "2.0.6",
+  "draft": false,
+  "author": {
+    "login": "RManLuo",
+    "id": 34737002,
+    "node_id": "MDQ6VXNlcjM0NzM3MDAy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/34737002?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/RManLuo",
+    "html_url": "https://github.com/RManLuo",
+    "followers_url": "https://api.github.com/users/RManLuo/followers",
+    "following_url": "https://api.github.com/users/RManLuo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/RManLuo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/RManLuo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/RManLuo/subscriptions",
+    "organizations_url": "https://api.github.com/users/RManLuo/orgs",
+    "repos_url": "https://api.github.com/users/RManLuo/repos",
+    "events_url": "https://api.github.com/users/RManLuo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/RManLuo/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "prerelease": false,
+  "created_at": "2020-10-28T03:49:48Z",
+  "published_at": "2020-11-12T15:01:14Z",
+  "assets": [
+
+  ],
+  "tarball_url": "https://api.github.com/repos/RManLuo/crack-soga-v2ray/tarball/2.0.6",
+  "zipball_url": "https://api.github.com/repos/RManLuo/crack-soga-v2ray/zipball/2.0.6",
+  "body": "Cracked by RMan on soga version 2.0.6"
+}
