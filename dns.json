@@ -1,0 +1,25 @@
+{
+  "servers": [
+    "1.1.1.1",
+    "8.8.8.8",
+    "localhost",
+    {
+      "address": "20.187.76.178",
+      "port": 53,
+      "domains": [
+        "geosite:netflix",
+        "bigbigchannel.com.hk","bigbigshop.com","content.jwplatform.com","encoretvb.com","mytvsuper.com","mytvsuperlimited.hb.omtrdc.net","mytvsuperlimited.sc.omtrdc.net","tvb.com","tvb.com.au","tvbanywhere.com","tvbanywhere.com.sg","tvbc.com.cn","tvbeventpower.com.hk","tvbusa.com","tvbweekly.com","tvmedia.net.au","videos-f.jwpsrv.com",
+        "geosite:bahamut",
+        "geosite:abema",
+        "dmm-extension.com","dmm.co.jp","dmm.com","videomarket.jp","p-smith.com","vmdash-cenc.akamaized.net","img.vm-movie.jp","bam.nr-data.net",
+        "geosite:hulu",
+        "geosite:hbo",
+        "geosite:disney",
+        "cloudfront.net","aiv-cdn.net","aiv-delivery.net","amazonprimevideo.cn","amazonprimevideo.com.cn","amazonprimevideos.com","amazonvideo.cc","amazonvideo.com","atv-ps.amazon.com","avodmp4s3ww-a.akamaihd.net","fls-na.amazon.com","llnwd.net","media-amazon.com","prime-video.com","primevideo.cc","primevideo.com","primevideo.info","primevideo.org","primevideo.tv",
+        "geosite:fox",
+        "control.kochava.com","d151l6v8er5bdm.cloudfront.net","d1sgwhnao7452x.cloudfront.net","dazn-api.com","dazn.com","dazndn.com","dc2-vodhls-perform.secure.footprint.net","dca-ll-livedazn-dznlivejp.s.llnwi.net","dcalivedazn.akamaized.net","dcblivedazn.akamaized.net","indazn.com","indaznlab.com","intercom.io","logx.optimizely.com","s.yimg.jp","sentry.io"
+        ]
+    }
+  ],
+  "tag": "dns_inbound"
+}
