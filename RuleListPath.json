@@ -1,0 +1,9 @@
+(.*\.||)(sigmapool|hashcity|2miners|solo-etc|nanopool|minergate|comining|give-me-coins|hiveon|arsmine|baikalmine|solopool|litecoinpool|mining-dutch|clona|viabtc|beepool|maxhash|bwpool|coinminerz|miningcore|multipools|uupool|minexmr|pandaminer|f2pool|sparkpool|antpool|poolin|slushpool|marathondh|pool.btc)\.(cn|com|org|net|club|net|fr|tw|hk|eu|info|me|io)
+(.+.|^)(360|so).(cn|com)
+(.*.||)(dafahao|minghui|dongtaiwang|epochtimes|nt­dtv|falundafa|wujieliulan).(org|com|net)
+(torrent|.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce.php?passkey=)
+(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
+(.*.||)(gov|12377|12315|talk.news.pts.org|creaders|zhuichaguoji|efcc.org|cyberpolice|aboluowang|tuidang|epochtimes|nytimes|zhengjian|110.qq|mingjingnews|inmediahk|xinsheng|bannedbook|ntdtv|12321|secretchina|epochweekly|cn.rfi).(cn|com|org|net|club|net|fr|tw|hk)
+(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+(.*.||)(rising|kingsoft|duba|xindubawukong|jinshanduba).(com|net|org)
