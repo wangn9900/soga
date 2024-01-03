@@ -65,7 +65,7 @@ buyTip:
 
 # 首页网站推荐
 homeNav:
-  show: true  # 是否显示
+  show: false  # 是否显示
   title: "网站推荐"  # 标题
   list: #以下列表数量不限可以无限添加，但请注意格式
     - text: "天阙官网"
